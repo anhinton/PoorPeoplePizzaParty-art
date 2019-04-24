@@ -1,0 +1,9 @@
+the drop shadow used throughought the project has the following
+properties
+
+  + horizontal offset: 2px
+  + vertical offset: 2px
+  + blur radius: 0px
+  + colour: black (r: 0, g: 0, b: 0)
+  + alpha/opacity: 0.6
+  

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="50"
+   height="50"
+   viewBox="0 0 50 50"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="save.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:export-filename="/home/ashley/Pictures/games/PoorPeoplePizzaParty/export/icons/save.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10">
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter887">
+      <feFlood
+         flood-opacity="0.6"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood877" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite879" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0"
+         result="blur"
+         id="feGaussianBlur881" />
+      <feOffset
+         dx="2"
+         dy="2"
+         result="offset"
+         id="feOffset883" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite885" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1869"
+     inkscape:window-height="1016"
+     id="namedview8"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="9.8333333"
+     inkscape:cx="-9.6101697"
+     inkscape:cy="25.271186"
+     inkscape:window-x="51"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6" />
+  <path
+     d="M 39.583333,25 V 39.583333 H 10.416667 V 25 H 6.2499999 v 14.583333 c 0,2.291666 1.875,4.166666 4.1666671,4.166666 h 29.166666 c 2.291666,0 4.166666,-1.875 4.166666,-4.166666 V 25 Z m -12.5,1.395833 5.395833,-5.375 2.9375,2.9375 L 25,34.375 14.583333,23.958333 l 2.9375,-2.9375 5.395833,5.375 V 6.25 h 4.166667 z"
+     id="path2"
+     inkscape:connector-curvature="0"
+     style="stroke-width:0.99999994;fill:#ffffff;fill-opacity:1;filter:url(#filter887)" />
+  <path
+     d="M 0,0 H 49.999999 V 49.999999 H 0 Z"
+     id="path4"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke-width:0.99999994" />
+</svg>
