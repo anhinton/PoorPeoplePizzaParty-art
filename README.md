@@ -47,6 +47,11 @@ by [Phillip Capper](https://www.flickr.com/people/42033648@N00) is licensed
 under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/deed.en).
 
 `postcard/28166819765_a02b21eaee_o.jpg`
-"[Waipori River | Mosgiel. | itravelNZ® - New Zealand in your pocket™](https://www.flickr.com/photos/itravelnz/28166819765/)"
+"[Waipori River](https://www.flickr.com/photos/itravelnz/28166819765/)"
 by [itravelNZ® - New Zealand in your pocket™](https://www.flickr.com/photos/itravelnz/)
+is licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).
+
+`postcard/8596242513_0e8139c0e0_o.jpg`
+"[018](https://www.flickr.com/photos/93842075@N04/8596242513/)" 
+by [Phillip Cossar](https://www.flickr.com/photos/93842075@N04/)
 is licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).
