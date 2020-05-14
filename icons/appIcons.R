@@ -4,7 +4,7 @@ library(whisker)
 
 source = "iosIcon.xcf"
 
-sizes = c(40, 58, 60, 80, 87, 120, 152, 167, 180, 1024)
+sizes = c(40, 58, 60, 76, 80, 87, 120, 152, 167, 180, 1024)
 
 output = file.path("appIcons", paste0("iosIcon-", sizes, ".png"))
 
