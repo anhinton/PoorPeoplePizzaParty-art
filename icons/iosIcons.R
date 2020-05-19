@@ -2,13 +2,13 @@
 
 library(whisker)
 
-source = "iosIcon.xcf"
+source = "iosIcon.png"
 
 sizes = c(40, 58, 60, 76, 80, 87, 120, 152, 167, 180, 1024)
 
-output = file.path("appIcons", paste0("iosIcon-", sizes, ".png"))
+output = file.path("iosIcons", paste0("iosIcon-", sizes, ".png"))
 
-template = "{{source}} -layers merge -scale {{size}} {{output}}"
+template = "{{source}} -scale {{size}} {{output}}"
 
 
 for (i in seq_along(sizes)) {
