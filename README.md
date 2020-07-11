@@ -22,9 +22,9 @@ Version 1.1.
 `icons/baseline-camera_alt-24px.svg` `icons/baseline-undo-24px.svg`
 `icons/baseline-close-24px.svg` `icons/baseline-volume_mute-24px.svg`
 `icons/baseline-save_alt-24px.svg` `icons/baseline-volume_up-24px.svg`
-`icons/baseline-settings-20px.svg`
+`icons/baseline-settings-20px.svg` `icons/casino-black-24dp.svg`
 "arrow_back", "share", "camera_alt", "undo", "close", "volume_mute",
-"save_alt", "volume_up", "settings.svg"
+"save_alt", "volume_up", "settings.svg", "die.svg"
 [Google](https://material.io/tools/icons/) are licensed under 
 [Apache license version 2.0](https://www.apache.org/licenses/LICENSE-2.0.html). 
 
